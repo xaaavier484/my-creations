@@ -1,0 +1,32 @@
+.same{
+    width= 100px;
+    length= 100px;
+}
+
+<body{
+    position: relative;
+ }
+.square-1{
+    background-color: #F34F1C;
+    position: absolute;
+    left: 500px;
+    top: 10px
+}
+.square-2{
+    background-color: #7FBC00;
+    position: absolute;
+    left: 610px;
+    top: 150px;
+}
+.square-3{
+    background-color: #01A6F0;
+    position: absolute;
+    left: 500px;
+    top: 261px;
+}
+.square-4{
+    background-color: #FFBA01;
+    position: absolute;
+    left: 610px;
+    top: 261px;
+}
